@@ -1,2 +1,8 @@
 env
+.env
 *.bak
+scrape.log
+shoope_rating_22490414.csv
+shoope_rating_appelhouse.store.csv
+shoope_rating_ifonespot.csv
+shoope_rating_jordancornerstore.csv
